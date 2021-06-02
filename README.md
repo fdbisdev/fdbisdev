@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 ### About me
 I am Computer Engineer undergraduate student at Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - [IFSP](https://www.ifsp.edu.br/) and intern developer at [PECEGE](https://pecege.com/).
