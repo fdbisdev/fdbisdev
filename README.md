@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-#### About me
+### About me
 I am Computer Engineer undergraduate student at Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - [IFSP](https://www.ifsp.edu.br/) and intern developer at [PECEGE](https://pecege.com/).
 <!--
 **FelipeBis/FelipeBis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
