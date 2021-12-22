@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### About me
-I am Computer Engineer undergraduate student at Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - [IFSP](https://www.ifsp.edu.br/) and intern developer at [PECEGE](https://pecege.com/).
+I am Computer Engineer undergraduate student at Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - [IFSP](https://www.ifsp.edu.br/).
 
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Bis-0a66c2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-bis-3681301b7/)](https://www.linkedin.com/in/felipe-bis-3681301b7/)
 [![Website Badge](https://img.shields.io/badge/website-Felipe%20Bis-%23564886?style=flat&link=https://silly-minsky-6fc796.netlify.app/)](https://silly-minsky-6fc796.netlify.app/)
