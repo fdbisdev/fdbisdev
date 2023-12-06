@@ -25,17 +25,17 @@ I am 24 years old, from São Paulo - Brasil. I have +5 years of experience with 
 ### Status
 
 <img
-  style="height:130px"
+  style="height:120px"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdbisdev&layout=compact&theme=dracula"
   alt="Github stats"
 />
 <img   
-  style="height:130px"
+  style="height:120px"
   src="https://github-readme-stats.vercel.app/api?username=fdbisdev&theme=dracula&hide_border=false&include_all_commits=true&count_private=true"
   alt="Github stats"
 />
 <img
-  style="height:130px"
+  style="height:120px"
   src="https://github-readme-streak-stats.herokuapp.com/?user=fdbisdev&theme=dracula&hide_border=false"
   alt="Github stats"
 />
