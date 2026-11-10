@@ -24,7 +24,7 @@ I am from São Paulo - Brasil. I have +5 years of experience with Frontend. Curr
 
 ### Status
 
-<img
+<!-- <img
   style="height:120px"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdbisdev&layout=compact&theme=dracula"
   alt="Github stats"
@@ -33,14 +33,14 @@ I am from São Paulo - Brasil. I have +5 years of experience with Frontend. Curr
   style="height:120px"
   src="https://github-readme-stats.vercel.app/api?username=fdbisdev&theme=dracula&hide_border=false&include_all_commits=true&count_private=true"
   alt="Github stats"
-/>
+/> -->
 <img
   style="height:120px"
   src="https://github-readme-streak-stats.herokuapp.com/?user=fdbisdev&theme=dracula&hide_border=false"
   alt="Github stats"
 />
 
-<div align="center">
+<!-- <div align="center">
   <h3><b>Profile Visitor Count</b></h3>
 </div>
 
@@ -49,7 +49,7 @@ I am from São Paulo - Brasil. I have +5 years of experience with Frontend. Curr
     src="https://profile-counter.glitch.me/fdbisdev/count.svg"
     alt="Ilustração do número de visitantes no perfil"
   />
-</p>
+</p> -->
 
 <!--
 **FelipeBis/FelipeBis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
