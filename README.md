@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### About me
-I am from São Paulo - Brasil. I have +8 years of experience with Frontend. Currently I am Computer Engineer undergraduate student at [Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP](https://www.ifsp.edu.br/).
+I am from São Paulo - Brasil. I have +8 years of experience with Fullstack web and mobile developer. I am Computer Engineer at [Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP](https://www.ifsp.edu.br/).
 
 ### Social Media
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Bis-0a66c2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-bis-3681301b7/)](https://www.linkedin.com/in/felipe-bis-3681301b7/)
